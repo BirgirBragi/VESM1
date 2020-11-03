@@ -4,6 +4,6 @@ Til þess að finna út hvað þyrfti til þess að lyfta 300 grömmum byrja ég
 
 ![Gírar](Gírar.PNG)
 
-Þegar að búið er að finna út gírhlutfall til þess að lyfta 300 grömmum þarf núna að búa til talíu sem viðbót til þess að lyfta 1kg. Með því að fjórfalda magnið af tannhjólum í talíuni fjórfaldast einnig lyftigetan og gerir þessi talía með því mótornum kleift að lyfta 1.2kg sem er yfirdrifið nóg
+Þegar að búið er að finna út gírhlutfall til þess að lyfta 300 grömmum þarf núna að búa til talíu sem viðbót til þess að lyfta 1kg. Með því að fjórfalda magnið af talíum fjórfaldast einnig lyftigetan og gerir þetta því mótornum kleift að lyfta 1.2kg sem er yfirdrifið nóg
 
 ![Talía](Talía.png)
