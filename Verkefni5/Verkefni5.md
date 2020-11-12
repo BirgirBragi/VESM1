@@ -6,4 +6,4 @@ Hér er hönnunarteinkingin:
 
 Hér er ljósmynd af samsetningunni í tinkercad (brauðbretti, vírar...)
 
-![Tinkercad Simon Says](Tinkercad_Circuits.png)
+![Tinkercad Simon Says](Tinkercad_Circuits.PNG)
