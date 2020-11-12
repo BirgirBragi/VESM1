@@ -6,7 +6,7 @@
 
 Hér er hönnunarteinking sem teiknuð var í inkscape með laser cut box. Hún er frekar einföld og sýnir rauða hringi þar sem að eiga að koma göt.
 
-![Hönnunarteikning](Simon_says.png)
+![Hönnunarteikning](Simon_says2.png)
 
 Hér er ljósmynd af samsetningunni í tinkercad (brauðbretti, vírar...)
 
